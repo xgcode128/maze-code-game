@@ -39,4 +39,5 @@ You control the character like this:
 ```python
 hero.moveRight(3)
 hero.moveDown(2)
-hero.moveLeft()
+hero.moveLeft(2)
+hero.moveUp(5)
