@@ -13,7 +13,7 @@
 
 ## 🎥 Gameplay
 
-<video src="gameplay.mp4" controls width="700"></video>
+![Gameplay](gameplay.gif)
 
 ---
 
